@@ -5,7 +5,7 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 BitsetSphere visualizes the function:
 
@@ -20,17 +20,17 @@ This binary string is then mapped to a point on a sphere, offering a spatial rep
 
 ---
 
-## 🎯 Features
+##  Features
 
-- 🔁 Real-time animation to explore subset space
-- 🌐 3D spherical mapping of subsets and encodings
-- 🧠 Label display for binary and decimal representation
-- 🔎 Interactive table selection with synchronized highlighting
-- 🎨 Clean PySide6 GUI with Matplotlib integration
+-  Real-time animation to explore subset space
+-  3D spherical mapping of subsets and encodings
+-  Label display for binary and decimal representation
+- Interactive table selection with synchronized highlighting
+-  Clean PySide6 GUI with Matplotlib integration
 
 ---
 
-## 🧪 Use Cases
+##  Use Cases
 
 - Visual demos in combinatorics and discrete math courses
 - Teaching bijective mappings and encoding logic
@@ -38,7 +38,7 @@ This binary string is then mapped to a point on a sphere, offering a spatial rep
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Install from requirements.txt
 ```bash
@@ -59,7 +59,7 @@ pip install numpy matplotlib PySide6
 
 ---
 
-## 🚀 Running the Application
+##  Running the Application
 
 ```bash
 python bijection_mapping.py
@@ -67,7 +67,7 @@ python bijection_mapping.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 BitsetSphere/
@@ -90,11 +90,11 @@ BitsetSphere/
 
 Each subset of a user-defined set is encoded into a binary string. These strings are geometrically projected onto a sphere. Users can:
 
-- ✅ Select entries in the subset table to highlight corresponding points
-- ✅ Run animations to step through the entire subset space
-- ✅ Toggle labels and connections to adjust clarity vs. performance
-- ✅ Customize set elements and size (1-6 elements)
-- ✅ Click 3D points to select corresponding table entries
+-   Select entries in the subset table to highlight corresponding points
+-   Run animations to step through the entire subset space
+-   Toggle labels and connections to adjust clarity vs. performance
+-   Customize set elements and size (1-6 elements)
+-   Click 3D points to select corresponding table entries
 
 ### Interactive Features
 
@@ -108,14 +108,14 @@ Each subset of a user-defined set is encoded into a binary string. These strings
 
 ---
 
-## 📈 Future Work
+## Future Work
 
-- 📊 Exporting graphs and data to CSV
-- 🎯 Hamming distance-based layout mode
-- ⚡ GPU-accelerated rendering for larger power sets
-- 🎓 Built-in tutorial system
-- 🌍 Web-based version for broader accessibility
-- 📱 Mobile-friendly interface
+-  Exporting graphs and data to CSV
+-  Hamming distance-based layout mode
+-  GPU-accelerated rendering for larger power sets
+-  Built-in tutorial system
+-  Web-based version for broader accessibility
+-  Mobile-friendly interface
 
 ---
 
@@ -150,7 +150,7 @@ Each subset of a user-defined set is encoded into a binary string. These strings
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 1. **Install**: Run `pip install -r requirements.txt`
 2. **Launch**: Execute `python bijection_mapping.py`
@@ -160,7 +160,7 @@ Each subset of a user-defined set is encoded into a binary string. These strings
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 *Add screenshots here to showcase your application*
 
@@ -172,7 +172,7 @@ Each subset of a user-defined set is encoded into a binary string. These strings
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -183,15 +183,15 @@ Contributions are welcome! Here's how you can help:
 5. **Open** a Pull Request
 
 ### Areas for Contribution
-- 🎨 UI/UX improvements
-- ⚡ Performance optimizations
-- 📚 Educational content
-- 🐛 Bug fixes
-- 📖 Documentation
+-  UI/UX improvements
+-  Performance optimizations
+-  Educational content
+-  Bug fixes
+-  Documentation
 
----
+--- 
 
-## 📚 License & Credits
+##  License & Credits
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -208,11 +208,11 @@ BitsetSphere is free for academic use and personal development. Attribution is a
 
 ---
 
-## 📞 Support & Contact
+##  Support & Contact
 
-- 🐙 **GitHub Issues**: [Report bugs or request features](https://github.com/justinguida941/BitsetSphere/issues)
-- 📧 **Email**: your.email@example.com
-- 💬 **Discussions**: Use GitHub Discussions for questions and ideas
+-  **GitHub Issues**: [Report bugs or request features](https://github.com/justinguida941/BitsetSphere/issues)
+-  **Email**: justinguidascell@gmail.com
+- 💬**Discussions**: Use GitHub Discussions for questions and ideas
 
 ---
 

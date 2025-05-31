@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+*.egg-info/
+
+# macOS system files
+.DS_Store
+
+# VSCode, PyCharm, etc.
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Matplotlib cache
+~/.matplotlib/
+
+# Jupyter and IPython files
+.ipynb_checkpoints/
+*.ipynb
+
+# Python test cache
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg
+*.whl
+
+# Optional: ignore user-specific config or export
+*.csv
+*.svg
+*.pdf
+*.png
+*.jpg# created by virtualenv automatically
+.venv/bin

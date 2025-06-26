@@ -1,5 +1,7 @@
 #Created by Justin Guida May 31 2025
 # BitsetSphere
+*This is the barebones version of the product. Have a full suite of scienetifc apps in the works.* 
+*Feel free to use this as an education tool or for your own personal use but this is not for commeercial use and you must give credit to the original author.*
 
 **BitsetSphere** is an interactive 3D visualization tool that maps the **bijection between power sets and binary strings** onto a sphere. It's designed to aid mathematical intuition and provide pedagogical clarity for students, educators, and researchers exploring combinatorics, set theory, and logic.
 
@@ -72,11 +74,9 @@ python bijection_mapping.py
 ```
 BitsetSphere/
 ├── bijection_mapping.py     # Main GUI and visualization logic
-├── requirements.txt         # Python dependencies (included)
+├── requirements.txt         # Python dependencies
 ├── README.md               # This file
-├── LICENSE                 # License file
-└── docs/
-    └── screenshots/        # Application screenshots
+└── LICENSE                 # License file
 ```
 
 ### Key Components
@@ -162,13 +162,8 @@ Each subset of a user-defined set is encoded into a binary string. These strings
 
 ##  Screenshots
 
-*Add screenshots here to showcase your application*
-
 ![Main Interface](docs/screenshots/main_interface.png)
 *Caption: Complete application showing table, 3D visualization, and controls*
-
-![Animation Demo](docs/screenshots/animation.gif)
-*Caption: Step-by-step animation of power set bijection*
 
 ---
 

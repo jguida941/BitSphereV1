@@ -41,6 +41,5 @@ dist/
 *.csv
 *.svg
 *.pdf
-*.png
 *.jpg# created by virtualenv automatically
 .venv/bin

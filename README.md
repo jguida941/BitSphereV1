@@ -1,11 +1,12 @@
-#Created by Justin Guida May 31 2025
+**Justin Guida May 31, 2025**
 # BitsetSphere
-*This is the barebones version of the product. Have a full suite of scienetifc apps in the works.* 
-*Feel free to use this as an education tool or for your own personal use but this is not for commeercial use and you must give credit to the original author.*
+This is the barebones version of the product. Have a full suite of scienetifc apps in the works.
+**Feel free to use this as an education tool or for your own personal** use, but this is not for commeercial use and you must give credit to the original author.
 
 **BitsetSphere** is an interactive 3D visualization tool that maps the **bijection between power sets and binary strings** onto a sphere. It's designed to aid mathematical intuition and provide pedagogical clarity for students, educators, and researchers exploring combinatorics, set theory, and logic.
 
----
+![Main Interface](docs/screenshots/main_interface.png)
+*Application showing table, 3D visualization, and controls*
 
 ## Overview
 
@@ -160,12 +161,6 @@ Each subset of a user-defined set is encoded into a binary string. These strings
 
 ---
 
-##  Screenshots
-
-![Main Interface](docs/screenshots/main_interface.png)
-*Caption: Complete application showing table, 3D visualization, and controls*
-
----
 
 ##  Contributing
 
